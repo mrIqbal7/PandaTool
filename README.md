@@ -3,7 +3,7 @@
 Mr Iqbal WiFi tool – **Use Only for educational & Learning Purposes**  
 Pixie Dust attack can fetch Password from vulnerable routers in 5_10 seconds.
 
-**Dont use it Illegal!- As it is against law**
+**Dont use it illegaly ! plz**
 
 ## Requirements
 - Rooted Android phone
@@ -22,7 +22,7 @@ pkg install -y root-repo
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 ```
 ```bash
-git clone https://github.com/pandajee25/MrIqbal_wifitool
+git clone https://github.com/mrIqbal7/PandaTool
 ```
 ```bash
 cd panda

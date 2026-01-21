@@ -22,7 +22,7 @@ pkg install -y root-repo
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 ```
 ```bash
-git clone https://github.com/mrIqbal7/PandaTool
+git clone https://github.com/mrIqbal7/panda
 ```
 ```bash
 cd panda

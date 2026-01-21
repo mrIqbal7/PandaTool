@@ -30,9 +30,6 @@ cd panda
 ```bash
 chmod +x panda.py
 ```
-```bash
-sudo python panda.py --help
-```
 - Now make sure your Wifi should be off
 # Run Pixi Dust Attack
 ```bash
